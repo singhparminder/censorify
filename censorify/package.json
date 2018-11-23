@@ -1,0 +1,19 @@
+{
+"author": "Brad Dayley",
+"name":"censorify",
+"version":"0.1.1",
+"description":"censors words out of text ",
+"main":"censortext",
+"repositroy":{
+"type": "git",
+ "url": "https://github.com/singhparminder/censorify.git"
+ },
+ "keywords": [
+ "censor",
+ "words"
+ ],
+"dependecies":{},
+"engines":{
+"node":"*"
+}
+}
